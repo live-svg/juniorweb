@@ -20,4 +20,4 @@ Given the MOCK_DATA.csv file
 1. Create a README.md file to explain how to run this project
 1. Provide some screenshots on the README.md file
 1. Zip all code and your resume
-1. Email to brian@cyalive.com with title `answer front-end test-1 ${yourname}`
+1. Email to brian@cyalive.com and joseph.cai@synaptop.com with title `answer front-end test-1 ${yourname}`
